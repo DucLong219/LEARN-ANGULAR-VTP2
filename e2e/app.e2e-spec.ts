@@ -1,6 +1,6 @@
 import { MaterialDashboardAngularPage } from './app.po';
 
-describe('material-dashboard-angular App', () => {
+describe('Learn-angular-vtpv2 App', () => {
   let page: MaterialDashboardAngularPage;
 
   beforeEach(() => {
