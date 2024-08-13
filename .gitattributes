@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 *.psd filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 0444240df470466e3026fa312bcbf864b67af042
 *.pack filter=lfs diff=lfs merge=lfs -text
